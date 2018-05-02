@@ -7,10 +7,6 @@ body {
 	background: #fff;
 	-webkit-font-smoothing: antialiased;
 }
-.inner {
-	width: 850px;
-	margin: 0 auto;
-}
 }
 nav ul, footer ul {
     font-family:'Source Sans Pro','Helvetica', 'Arial', 'Sans-Serif';
