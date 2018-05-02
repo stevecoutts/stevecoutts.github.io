@@ -7,8 +7,10 @@ body {
 	background: #fff;
 	-webkit-font-smoothing: antialiased;
 }
-img {
-	align: center;
+img.center {
+    display: block;
+    margin: 0 auto;
+}
 }
 nav ul, footer ul {
     font-family:'Source Sans Pro','Helvetica', 'Arial', 'Sans-Serif';
