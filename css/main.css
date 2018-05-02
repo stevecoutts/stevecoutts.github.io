@@ -7,9 +7,9 @@ body {
 	background: #fff;
 	-webkit-font-smoothing: antialiased;
 }
-img.center {
-    display: block;
-    margin: 0 auto;
+.inner {
+	width: 850px;
+	margin: 0 auto;
 }
 }
 nav ul, footer ul {
